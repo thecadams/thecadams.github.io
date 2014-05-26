@@ -1,9 +1,11 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Chris Adams
+email: chris@cadams.com.au
+description: "I am a software engineer from Melbourne Australia living in San Francisco and working at <a href='//www.pivotallabs.com'>Pivotal Labs</a>. Here, you can read my thoughts on life in SF, software engineering, and the software industry as a whole."
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://www.cadams.com.au"
+github: thecadams
+twitter: cadamsau
 
 # Build settings
 markdown: kramdown
