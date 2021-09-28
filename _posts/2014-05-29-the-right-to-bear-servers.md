@@ -1,12 +1,12 @@
 ---
 layout: post
 title: The right to bear servers
+categories: [Software Engineering, Infra]
 ---
 
-It is 1776 and a new country is being born. Over the next few decades a story of revolution, conquer, expansion will unfold; settlers and adventurers fanning out across an enourmous new continent. Law enforcement lags behind, but the newcomers must defend themselves against a tough landscape: wild animals, indigenous people, other settlers - potentially the government itself. Eager to maintain prosperity, the young government updates its foundation, adding *The Second Amendment*:
+It is 1776 and a new country is being born. Over the next few decades a story of revolution, conquer, expansion will unfold; settlers and adventurers fanning out across an enourmous new continent. Law enforcement lags behind, but the newcomers must defend themselves against a tough landscape: wild animals, indigenous people, other settlers - potentially the government itself. Eager to maintain prosperity, the young government updates its foundation, adding _The Second Amendment_:
 
-    A well regulated Militia, being necessary to the security of a free State,
-    the right of the people to keep and bear Arms, shall not be infringed.
+> A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.
 
 The newcomers have the [odd scuffle](http://en.wikipedia.org/wiki/Battle_of_the_Alamo) but conquer the entire continent. The new country is the USA and it goes on to become the world's richest and define human progress for generations.
 
@@ -22,9 +22,9 @@ That is a threat to humans, and it's one I want to fight. I want to be able to l
 
 This magical device doesn't exist yet, but when it does, it will store our files, run our email, websites, blogs, and hold data on what we're doing in equivalents to Facebook and Twitter that talk to friends' devices. It will be part of a global network based on permission instead of a single platform that exists to sell eyeballs to advertisers. Like the frontier people of the 18th century I propose we, the citizens of this new frontier demand that
 
-    The right of the people to keep and bear Servers, shall not be infringed.
+> The right of the people to keep and bear Servers, shall not be infringed.
 
-Such an amendment will create a commercial climate that lets people control their own hardware and thus pay to store - and share - data privately. The only physical territory with enough control of the Internet to do this is the United States of America, founded in 1776. The USA is founded on the values of freedom and privacy and this continues that theme, so it *can* and *should* enshrine this in law.
+Such an amendment will create a commercial climate that lets people control their own hardware and thus pay to store - and share - data privately. The only physical territory with enough control of the Internet to do this is the United States of America, founded in 1776. The USA is founded on the values of freedom and privacy and this continues that theme, so it _can_ and _should_ enshrine this in law.
 
 When the day comes that we can share our data only with who we choose, we will have the basic rights we take for granted in the physical world. Maybe the Internet dinosaurs will go extinct and maybe not, but either way, there will be an explosion of diversity and that will create opportunities for privacy-focused products as well. The future looks bright but we have to bring it about.
 

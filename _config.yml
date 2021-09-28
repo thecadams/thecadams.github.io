@@ -1,12 +1,41 @@
 # Site settings
-title: Chris Adams
-email: chris@cadams.com.au
-description: "I am a software engineer from Melbourne Australia living in San Francisco and working at <a href='//www.pivotallabs.com'>Pivotal Labs</a>. Here, you can read my thoughts on life in SF, software engineering, and the software industry as a whole."
-baseurl: ""
-url: "http://www.cadams.com.au"
-github: thecadams
-twitter: cadamsau
+theme: jekyll-theme-chirpy
+theme_mode: light
 
-# Build settings
+title: Chris Adams
+email: chris+site@cadams.com.au
+avatar: /images/avatar.jpg
+tagline: >-
+  <p>A software engineer from Melbourne, Australia.</p>
+  <p>Living in Sydney and working at <a href='https://www.canva.com'>Canva</a>.</p>
+  <p>I write about life, software engineering, Site Reliability Engineering, and entrepreneurship.</p>
+
+baseurl: ""
+url: https://www.cadams.com.au
+
 markdown: kramdown
 permalink: pretty
+
+github:
+  username: thecadams
+twitter:
+  username: cadamsau
+
+social:
+  name: Chris Adams
+  email: chris+site@cadams.com.au
+  links:
+    - https://github.com/thecadams
+
+toc: true
+
+disqus:
+  comments: false # boolean type, the global switch for posts comments.
+  shortname: "" # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+
+paginate: 10
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
